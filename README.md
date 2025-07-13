@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asish Kumar Panda</h1>
 <h3 align="center">A passionate Odoo developer from India</h3>
 
-- 🔭 I’m currently working on **Brainvire website**
+- 🔭 I’m currently working on **Phoenix & Jask**
 
 - 🌱 I’m currently learning **Odoo Framework and react native.**
 
